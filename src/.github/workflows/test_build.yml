@@ -24,4 +24,4 @@ jobs:
 
     - name: Test with pytest
       working-directory: src
-      run: python -m pytest src/tests.py
+      run: python -m pytest tests.py
